@@ -1,0 +1,46 @@
+[
+  {
+    "title": "HTML",
+    "image": "html.svg",
+    "description": "Linguagem de marcação usada para estruturar e dar semântica às páginas web."
+
+  },
+  {
+    "title": "CSS",
+    "image": "css.svg",
+    "description": "Folhas de estilo responsáveis pelo layout, cores, tipografia e apresentação visual."
+    
+  },
+  {
+    "title": "JavaScript",
+    "image": "javascript.svg",
+    "description": "Linguagem de programação essencial para adicionar interatividade e lógica à web."
+  },
+  {
+    "title": "TypeScript",
+    "image": "typescript.svg",
+    "description": "Superset de JavaScript com tipagem estática que ajuda a prevenir erros e escalar projetos."
+  },
+  {
+    "title": "JSON",
+    "image": "json.svg",
+    "description": "Formato leve de troca de dados estruturados, muito usado em APIs e configurações."
+  },
+  {
+    "title": "GitHub",
+    "image": "github.svg",
+    "description": "Plataforma de alojamento de código com Git para versionamento e colaboração em equipa."
+  },
+  
+  {
+    "title": "React.js",
+    "image": "react.svg",
+    "description": "Biblioteca para construir interfaces de utilizador baseadas em componentes reutilizáveis e estado."
+  },
+  {
+    "title": "Next.js",
+    "image": "nextjs.svg",
+    "description": "Framework React com roteamento por ficheiros, SSR/SSG, otimizações e full-stack capabilities."
+  }
+
+]
